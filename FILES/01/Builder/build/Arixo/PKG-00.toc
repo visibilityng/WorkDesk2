@@ -1,0 +1,305 @@
+('C:\\Users\\HP PC\\Desktop\\FILES\\01\\Builder\\build\\Arixo\\Arixo.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\HP PC\\Desktop\\FILES\\01\\Builder\\build\\Arixo\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\HP '
+   'PC\\Desktop\\FILES\\01\\Builder\\build\\Arixo\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\HP '
+   'PC\\Desktop\\FILES\\01\\Builder\\build\\Arixo\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\HP '
+   'PC\\Desktop\\FILES\\01\\Builder\\build\\Arixo\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\HP '
+   'PC\\Desktop\\FILES\\01\\Builder\\build\\Arixo\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\HP '
+   'PC\\Desktop\\FILES\\01\\Builder\\build\\Arixo\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('Arixo',
+   'C:\\Users\\HP PC\\Desktop\\FILES\\01\\Builder\\Arixo.py',
+   'PYSOURCE'),
+  ('python310.dll',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\python310.dll',
+   'BINARY'),
+  ('Crypto\\Hash\\_ghash_portable.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_ghash_portable.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_aes.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_aes.pyd',
+   'BINARY'),
+  ('Crypto\\Protocol\\_scrypt.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Protocol\\_scrypt.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_cbc.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_cbc.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_eksblowfish.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_eksblowfish.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ecb.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_ecb.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA224.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_SHA224.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ocb.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_ocb.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_aesni.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_aesni.pyd',
+   'BINARY'),
+  ('Crypto\\PublicKey\\_ec_ws.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\PublicKey\\_ec_ws.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_MD4.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_MD4.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_MD2.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_MD2.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_cfb.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_cfb.pyd',
+   'BINARY'),
+  ('Crypto\\PublicKey\\_x25519.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\PublicKey\\_x25519.pyd',
+   'BINARY'),
+  ('Crypto\\PublicKey\\_ed25519.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\PublicKey\\_ed25519.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_des3.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_des3.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_BLAKE2s.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_BLAKE2s.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA256.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_SHA256.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_pkcs1_decode.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_pkcs1_decode.pyd',
+   'BINARY'),
+  ('Crypto\\Util\\_strxor.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Util\\_strxor.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_MD5.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_MD5.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_RIPEMD160.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_RIPEMD160.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA384.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_SHA384.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_cast.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_cast.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ofb.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_ofb.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA512.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_SHA512.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_Salsa20.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_Salsa20.pyd',
+   'BINARY'),
+  ('Crypto\\Math\\_modexp.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Math\\_modexp.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_des.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_des.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_SHA1.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_SHA1.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_ghash_clmul.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_ghash_clmul.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_BLAKE2b.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_BLAKE2b.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_chacha20.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_chacha20.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_keccak.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_keccak.pyd',
+   'BINARY'),
+  ('Crypto\\Util\\_cpuid_c.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Util\\_cpuid_c.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_ARC4.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_ARC4.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_blowfish.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_blowfish.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_arc2.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_arc2.pyd',
+   'BINARY'),
+  ('Crypto\\Hash\\_poly1305.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Hash\\_poly1305.pyd',
+   'BINARY'),
+  ('Crypto\\PublicKey\\_ed448.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\PublicKey\\_ed448.pyd',
+   'BINARY'),
+  ('Crypto\\Cipher\\_raw_ctr.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\Crypto\\Cipher\\_raw_ctr.pyd',
+   'BINARY'),
+  ('unicodedata.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp310-win32.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\charset_normalizer\\md__mypyc.cp310-win32.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp310-win32.pyd',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\charset_normalizer\\md.cp310-win32.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\HP '
+   'PC\\Desktop\\FILES\\01\\Builder\\build\\Arixo\\base_library.zip',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\HP '
+   'PC\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA')],
+ 'python310.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
